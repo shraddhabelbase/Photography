@@ -22,7 +22,7 @@ const Navbar = ({toogle}) => {
         >Home</NavLinks>
         </NavItem>
         <NavItem>
-        <NavLinks to='Services'
+        <NavLinks to='projects'
         smooth={true}
         duration={500}
         spy={true}
